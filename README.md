@@ -14,7 +14,7 @@ So far, that journey has taken me from music discovery websites to portable port
 A browser-based builder that brings projects, photos and videos together in one downloadable HTML portfolio. Recipients can open it without an account.
 
 **“How can a music website feel easy to explore?”**  
-→ **[Greatest Hits Central](https://github.com/Abijeason/greatest-hits-central)**  
+→ **[Greatest Hits Central]([https://github.com/Abijeason/greatest-hits-central](https://abijeason.github.io/greatest-hits-central/))**  
 A responsive music discovery website built with HTML, CSS and JavaScript, with artist pages and interactive navigation.
 
 **“What makes a battle system predictable, testable and fun to build?”**  
