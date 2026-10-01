@@ -3,7 +3,7 @@
 
 I’m a **second-year Computer Science student at the University of Greenwich**. I’m still exploring where I want to specialise, and my projects are how I’m finding out.
 
-So far, that journey has taken me from music discovery websites to portable portfolios—and into the mechanics of a turn-based battle game.
+So far, that journey has taken me from music discovery websites to portable portfolios and into the mechanics of a turn-based battle game.
 
 ---
 
