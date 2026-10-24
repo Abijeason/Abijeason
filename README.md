@@ -1,62 +1,37 @@
-# Hi, I’m Abhishek 👋
-### From an idea to a playable game—and on to the next version.
+# Hey, I’m Abhishek 👋
 
-I’m a **second-year Computer Science student at the University of Greenwich**, building with Python, JavaScript, HTML and CSS. I learn by turning ideas into projects, testing what can go wrong, and improving them with a teammate.
+**Second-year CS student · University of Greenwich**  
+I turn “what if?” ideas into things you can click, play and share.
 
-**Right now:** working with my teammate on **Clashbound V2** and preparing for a hackathon. I’m keen to meet other builders, share ideas and contribute to a team.
+⚡ **Now:** building Clashbound V2 with my teammate & getting ready for a hackathon.
 
----
+### Pick a project. Take it for a spin.
 
-### ⚔️ Clashbound · V1 launched on Render · V2 in development
+⚔️ **Clashbound** — Pick your fighters. Outsmart the bot.  
+Two-person browser game · **V1 live on Render · V2 in development**  
+[Play V1](https://clashbound.onrender.com/) · [Explore the code](https://github.com/Zain-ux-lab/Clashbound)
 
-**What started as Pokémon-Style-Game is now Clashbound.**
+🪺 **Portfolio Nest** — Your projects, photos and videos. One shareable HTML file.  
+[Build yours](https://abijeason.github.io/portfolio-nest/) · [Code](https://github.com/Abijeason/portfolio-nest)
 
-**[Play V1](https://clashbound.onrender.com/)** · [Source code](https://github.com/Zain-ux-lab/Clashbound)
+🎵 **Greatest Hits Central** — A little music discovery, made for the browser.  
+[Take a look](https://abijeason.github.io/greatest-hits-central/) · [Code](https://github.com/Abijeason/greatest-hits-central)
 
-*The Render demo may take a moment to wake up on the first visit.*
+<details>
+<summary><strong>🔎 What did I work on? Click to explore</strong></summary>
 
-A two-person, turn-based browser game against a tactical bot. Players pick three of ten characters, customise their moves, and use type matchups and abilities across eight arenas.
+**Clashbound:** core combat logic, artwork, menus/settings, music, homepage and battle UI integration, tests and security checks. Built with my teammate using AI assistance and peer review.
 
-**My contributions include:**
+See my [battle engine](https://github.com/Zain-ux-lab/Clashbound/pull/3), [homepage & battle UI](https://github.com/Zain-ux-lab/Clashbound/pull/23), and [session-cookie fix](https://github.com/Zain-ux-lab/Clashbound/pull/19).
 
-- Core Python combat logic: alternating turns, damage, switching, healing and guard mechanics.
-- Artwork, the animated homepage, menus/settings, music and presentation.
-- Integrating the homepage with the battle interface, including readable move details and status-effect displays.
-- Unit tests, a session-cookie fix, and CodeQL scanning through GitHub Actions.
+**Portfolio Nest:** portfolio creation, browser draft saving, media previews and self-contained HTML exports.
 
-**See the work:** [battle engine](https://github.com/Zain-ux-lab/Clashbound/pull/3) · [homepage & battle UI](https://github.com/Zain-ux-lab/Clashbound/pull/23) · [session-cookie fix](https://github.com/Zain-ux-lab/Clashbound/pull/19)
+**Greatest Hits Central:** responsive pages, artist browsing and JavaScript navigation.
 
-V1 is launched on Render. We’re now developing V2; upcoming work is still in progress.
+*Clashbound’s Render demo may take a moment to wake up.*
 
-*Built collaboratively with AI assistance, pull-request reviews, automated tests and playtesting.*
+</details>
 
----
+**🛠 Python · JavaScript · HTML · CSS · FastAPI · pytest · GitHub Actions**
 
-### 🧩 Two more ideas I’ve brought to the browser
-
-**“What if sharing your work was as simple as sending one file?”**  
-**[Portfolio Nest — try it](https://abijeason.github.io/portfolio-nest/)** · [Code](https://github.com/Abijeason/portfolio-nest)  
-A portfolio builder that packages projects, photos and videos into one downloadable HTML file. Recipients can open it without an account.
-
-**“How can a music website feel easy to explore?”**  
-**[Greatest Hits Central — explore it](https://abijeason.github.io/greatest-hits-central/)** · [Code](https://github.com/Abijeason/greatest-hits-central)  
-A responsive music discovery website with artist pages and interactive navigation, built with HTML, CSS and JavaScript.
-
----
-
-### 🛠️ My current toolkit
-
-| Building with | Putting into practice |
-| --- | --- |
-| Python · JavaScript · HTML · CSS | Combat logic and browser interfaces |
-| FastAPI | Working with a Python backend and browser integration |
-| pytest | Testing behaviour and edge cases |
-| GitHub · Pull requests | Collaborating, reviewing and documenting changes |
-| GitHub Actions · CodeQL | Automated code checks |
-
-### 🌱 What I’m working towards
-
-Shipping useful projects, writing code I can explain, and getting better at working with others. I’m still exploring where I want to specialise—and hackathons are another chance to learn by building.
-
-**My next direction is still open. My next project will teach me something.**
-
+*Still exploring. Always building. Happy to team up.*
