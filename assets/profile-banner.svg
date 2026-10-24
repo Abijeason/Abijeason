@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Abhishek Yadav — build, play, share</title>
+<desc id="desc">A blue banner with illustrations of a game controller, a portfolio page and music notes.</desc>
+<rect width="1200" height="280" rx="22" fill="#182e50"/>
+<path d="M0 248Q280 200 550 248T1200 233V280H0Z" fill="#244469"/>
+<circle cx="1090" cy="46" r="110" fill="#213e62"/>
+<g font-family="Verdana,Arial,sans-serif" fill="#f4f6fb">
+<text x="56" y="110" font-size="59" font-weight="700" letter-spacing="-2">Abhishek Yadav</text>
+<text x="59" y="162" font-size="26" fill="#c4d7ec">A little code. A lot of curiosity.</text>
+<text x="59" y="216" font-size="21" fill="#8ed5d1">Build something. Let people try it.</text>
+</g>
+<path d="M790 130Q870 50 970 130T1130 142" fill="none" stroke="#6586a7" stroke-width="3" stroke-dasharray="7 9"/>
+<g transform="translate(760 80) rotate(-9 60 60)">
+<rect width="120" height="120" rx="27" fill="#8ed5d1"/>
+<path d="M31 43H89Q100 43 103 60L108 85Q109 96 98 96L82 79H38L22 96Q11 96 12 85L17 60Q20 43 31 43Z" fill="#182e50"/>
+<path d="M34 53V72M25 62H44" stroke="#8ed5d1" stroke-width="6" stroke-linecap="round"/>
+<circle cx="80" cy="58" r="5" fill="#ff9b83"/><circle cx="91" cy="70" r="5" fill="#ff9b83"/>
+</g>
+<g transform="translate(917 105) rotate(7 60 60)">
+<rect width="120" height="120" rx="27" fill="#e3eaf6"/>
+<rect x="27" y="22" width="67" height="79" rx="6" fill="#182e50"/>
+<circle cx="44" cy="42" r="7" fill="#ff9b83"/>
+<path d="M60 39H80M60 47H74M41 63H80M41 75H80M41 87H64" stroke="#e3eaf6" stroke-width="4" stroke-linecap="round"/>
+</g>
+<g transform="translate(1063 59) rotate(12 48 48)">
+<rect width="96" height="96" rx="23" fill="#ff9b83"/>
+<path d="M37 63V30L69 23V56M37 39L69 32" fill="none" stroke="#182e50" stroke-width="7" stroke-linejoin="round"/>
+<ellipse cx="29" cy="66" rx="12" ry="9" fill="#182e50"/><ellipse cx="61" cy="59" rx="12" ry="9" fill="#182e50"/>
+</g>
+<g fill="#8ed5d1"><circle cx="907" cy="54" r="4"/><circle cx="1110" cy="228" r="4"/><path d="M720 197h15m-7-7v15" stroke="#8ed5d1" stroke-width="3"/></g>
+</svg>
