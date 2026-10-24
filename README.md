@@ -1,10 +1,6 @@
-![Abhishek Yadav: a little code, a lot of curiosity](assets/profile-banner.svg)
+![Abhishek Yadav: Making ideas click](profile-banner.png)
 
-<p align="center"><strong>CS student</strong></p>
-
-I build browser experiences, from games to tools that help people share their work. Still exploring my specialism, learning through projects, and happy to team up.
-
-> ⚡ **Currently:** co-developing **Clashbound V2** and preparing for a hackathon.
+<p align="center"><strong>CS student</strong><br/>Python, JavaScript, and ideas worth building.</p>
 
 ### Pick a project. Take it for a spin.
 
@@ -34,4 +30,5 @@ Built with my teammate using AI assistance, peer review, automated tests and pla
 ---
 
 <p align="center"><strong>🛠 Python · JavaScript · HTML · CSS · FastAPI · pytest · GitHub Actions</strong><br/><em>Still exploring. Always building. Happy to team up.</em></p>
+
 
