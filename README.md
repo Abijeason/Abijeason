@@ -2,9 +2,13 @@
 
 <p align="center"><strong>CS student</strong><br/>Python, JavaScript, and ideas worth building.</p>
 
-I build browser experiences, from games to tools that help people share their work. Still exploring my specialism, learning through projects, and happy to team up.
+I build browser experiences, from games to apps and tools that help people train and share their work. Still exploring my specialism, learning through projects, and happy to team up.
 
 ### Pick a project. Take it for a spin.
+
+**🏋️ Daylift** · New · live on GitHub Pages  
+A free gym workout guide that installs like an app and works offline. It builds a weekly plan around your goal, experience and gym equipment, then guides each workout set by set. Friends can share one plan, and each phone sets its own sets, reps and weights. I built it in React and TypeScript, with no account and workout history kept on the phone.  
+**[Try it](https://abijeason.github.io/daylift/)** · [Source](https://github.com/Abijeason/daylift)
 
 **⚔️ Clashbound** · V1 live on Render · V2 in development  
 A two-person tactical browser game: choose three fighters, customise their moves, and battle a bot. My work spans core combat logic, artwork, music, menus and the homepage/battle interface, with tests and security checks.  
@@ -21,9 +25,11 @@ A responsive music discovery website with artist pages and interactive navigatio
 <details>
 <summary><strong>🔎 Behind the builds: explore my contributions</strong></summary>
 
+**Daylift:** read the [architecture](https://github.com/Abijeason/daylift/blob/main/docs/ARCHITECTURE.md), [data model](https://github.com/Abijeason/daylift/blob/main/docs/DATA-MODEL.md), [security notes](https://github.com/Abijeason/daylift/blob/main/docs/SECURITY.md) and [testing approach](https://github.com/Abijeason/daylift/blob/main/docs/TESTING.md).
+
 **Clashbound:** see my [battle engine](https://github.com/Zain-ux-lab/Clashbound/pull/3), [homepage & battle UI](https://github.com/Zain-ux-lab/Clashbound/pull/23), and [session-cookie fix](https://github.com/Zain-ux-lab/Clashbound/pull/19).
 
-Built with my teammate using AI assistance, peer review, automated tests and playtesting. V2 is still in development. The Render demo may take a moment to wake up.
+Clashbound was built with my teammate using AI assistance, peer review, automated tests and playtesting. V2 is still in development. The Render demo may take a moment to wake up.
 
 **What I’m practising:** state management, readable interfaces, testing edge cases, and collaborating through pull requests.
 
@@ -31,7 +37,7 @@ Built with my teammate using AI assistance, peer review, automated tests and pla
 
 ---
 
-<p align="center"><strong>🛠 Python · JavaScript · HTML · CSS · FastAPI · pytest · GitHub Actions</strong><br/><em>Still exploring. Always building. Happy to team up.</em></p>
+<p align="center"><strong>🛠 Python · JavaScript · TypeScript · React · HTML · CSS · FastAPI · pytest · GitHub Actions</strong><br/><em>Still exploring. Always building. Happy to team up.</em></p>
 
 
 
