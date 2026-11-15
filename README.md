@@ -6,7 +6,7 @@
 
 I build web apps people can use straight away, then test and document them so someone else could pick them up tomorrow.
 
-<a href="https://www.linkedin.com/in/abhishek-yv/"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-ffc93c?style=for-the-badge&logo=linkedin&logoColor=14213d" alt="Message me on LinkedIn"></a>
+<a href="mailto:yadavabhishek4751@gmail.com"><img src="https://img.shields.io/badge/Send_me_an_email-ffc93c?style=for-the-badge&logo=gmail&logoColor=14213d" alt="Send me an email"></a>
 <a href="https://abijeason.github.io/daylift/"><img src="https://img.shields.io/badge/Try_Daylift-b6d7f0?style=for-the-badge&logo=googlechrome&logoColor=14213d" alt="Try Daylift"></a>
 
 </div>
@@ -130,6 +130,6 @@ Clashbound is built with a teammate through reviewed pull requests, such as my [
 <div align="center">
 
 **Hiring, or have a project in mind?** I'm open to software development roles and collaborations.<br>
-[Send me a message on LinkedIn](https://www.linkedin.com/in/abhishek-yv/) and I'll reply.
+Send me an email at [yadavabhishek4751@gmail.com](mailto:yadavabhishek4751@gmail.com) and I'll reply.
 
 </div>
