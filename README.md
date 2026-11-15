@@ -1,8 +1,18 @@
 ![Abhishek Yadav: Making ideas click](profile-banner.png)
 
-<p align="center"><strong>CS student</strong><br/>Python, JavaScript, and ideas worth building.</p>
+<p align="center"><strong>Second-year Computer Science student at the University of Greenwich</strong><br/>Python · JavaScript · TypeScript</p>
 
-I build browser experiences, from games to apps and tools that help people train and share their work. Still exploring my specialism, learning through projects, and happy to team up.
+I build web apps people can use straight away: an offline gym workout app, a two-player browser game and a portfolio builder. I test my code and write down why I built things the way I did.
+
+**Hiring, or have a project in mind?** I'm open to software development roles and collaborations. Send me a message and I'll reply.
+
+[![Message me on LinkedIn](https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-yv/)
+
+### How I work
+
+- **Tested:** Daylift runs its Vitest suite before every deploy, and Clashbound has a pytest suite.
+- **Documented:** Daylift has a written [product spec](https://github.com/Abijeason/daylift/blob/main/docs/PRD.md), [architecture](https://github.com/Abijeason/daylift/blob/main/docs/ARCHITECTURE.md), [security notes](https://github.com/Abijeason/daylift/blob/main/docs/SECURITY.md) and [testing approach](https://github.com/Abijeason/daylift/blob/main/docs/TESTING.md).
+- **Collaborative:** Clashbound is built with a teammate through reviewed pull requests, such as my [battle engine](https://github.com/Zain-ux-lab/Clashbound/pull/3).
 
 ### Pick a project. Take it for a spin.
 
@@ -25,7 +35,7 @@ A responsive music discovery website with artist pages and interactive navigatio
 <details>
 <summary><strong>🔎 Behind the builds: explore my contributions</strong></summary>
 
-**Daylift:** read the [architecture](https://github.com/Abijeason/daylift/blob/main/docs/ARCHITECTURE.md), [data model](https://github.com/Abijeason/daylift/blob/main/docs/DATA-MODEL.md), [security notes](https://github.com/Abijeason/daylift/blob/main/docs/SECURITY.md) and [testing approach](https://github.com/Abijeason/daylift/blob/main/docs/TESTING.md).
+**Daylift:** read the [data model](https://github.com/Abijeason/daylift/blob/main/docs/DATA-MODEL.md) and the full [document list](https://github.com/Abijeason/daylift#documents).
 
 **Clashbound:** see my [battle engine](https://github.com/Zain-ux-lab/Clashbound/pull/3), [homepage & battle UI](https://github.com/Zain-ux-lab/Clashbound/pull/23), and [session-cookie fix](https://github.com/Zain-ux-lab/Clashbound/pull/19).
 
@@ -37,7 +47,7 @@ Clashbound was built with my teammate using AI assistance, peer review, automate
 
 ---
 
-<p align="center"><strong>🛠 Python · JavaScript · TypeScript · React · HTML · CSS · FastAPI · pytest · GitHub Actions</strong><br/><em>Still exploring. Always building. Happy to team up.</em></p>
+<p align="center"><strong>🛠 Python · JavaScript · TypeScript · React · HTML · CSS · FastAPI · pytest · GitHub Actions</strong><br/><em>Like what you see? <a href="https://www.linkedin.com/in/abhishek-yv/">Let's talk on LinkedIn</a>.</em></p>
 
 
 
